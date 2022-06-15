@@ -1,6 +1,6 @@
 # MERNSupportDesk
 
-A simple full stack app with basic features like login and signup and storing data.
+A simple full stack web app with basic features like login and signup and storing data.
 
 Packages used across the project: -
 bcryptjs
