@@ -2,8 +2,7 @@
 
 A simple full stack app with basic features like login and signup and storing data.
 
-Packages used across the project:
-
+Packages used across the project: -
 bcryptjs
 colors
 concurrently
@@ -15,8 +14,7 @@ mongoose
 
 
 
-Packages used especially in the front-end:
-
+Packages used especially in the front-end: -
 axios
 react
 react-dom
