@@ -26,4 +26,4 @@ react-scripts
 react-toastify
 web-vitals
 
-The project is live [here](https://abhisupportdesk.herokuapp.com/)
+The project is live [here](https://abhisupportdesk.herokuapp.com/).
